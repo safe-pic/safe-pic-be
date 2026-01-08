@@ -1,10 +1,10 @@
-package potato.safe_pic;
+package com.root.checkerly;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SafePicApplicationTests {
+class CheckerlyApplicationTests {
 
 	@Test
 	void contextLoads() {
